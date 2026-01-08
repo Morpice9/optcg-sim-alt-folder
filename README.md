@@ -1,2 +1,1 @@
-# optcg-sim-alt-folder
-A folder that contains curated alternative arts for OPTCG simulator.
+To replace files, simply download "Cards" folder and copy-paste intp your Sim location ("...\Builds_Windows\OPTCGSim_Data\StreamingAssets\")
